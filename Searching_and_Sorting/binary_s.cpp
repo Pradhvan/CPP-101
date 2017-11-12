@@ -18,7 +18,6 @@ using namespace std;
         else if(x<arr[mid]){
 
             end = mid-1;
-
         }
 
         else {

@@ -7,13 +7,9 @@ int main(){
     int a=0,b=1,c=1;
 
     cin>>n;
-
-    while(i<=n){
-        if(i==n){
-
-            cout<<a;
-
-        }
+    
+    while(i<=n){   
+        cout<<a<<endl;
         a=b;
         b=c;
         c=a+b;
