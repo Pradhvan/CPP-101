@@ -4,7 +4,7 @@ using namespace std;
 
 int main(){
 
-Student s1;
+Student std1;
 Student *s2  = new Student;
 
 s1.rollNumber = 99;
