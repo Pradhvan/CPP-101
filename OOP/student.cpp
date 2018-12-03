@@ -1,6 +1,6 @@
 class Student {
 public:
-    int rollNumber;
+    float rollNumber;
 private:
     int age;
 public:
